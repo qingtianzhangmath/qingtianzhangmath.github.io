@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Qingtian Zhang's website"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/

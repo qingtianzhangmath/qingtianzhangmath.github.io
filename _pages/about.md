@@ -19,6 +19,8 @@ Shenzhen, China
 
 Zip code: 518060
 
-Email: "email.png"
+
+
+[Website in Chinese](https://math.szu.edu.cn/info/1095/3883.htm)/[email](../images/email.png)
 
 

@@ -19,6 +19,6 @@ Shenzhen, China
 
 Zip code: 518060
 
-Email: ../images/email.jpg
+Email: "email.png"
 
 

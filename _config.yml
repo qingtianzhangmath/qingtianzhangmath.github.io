@@ -22,8 +22,8 @@ repository               : "qingtianzhangmath/qingtianzhangmath.github.io"
 author:
   # Biographic information
   avatar           : "qz.png"
-  name             : "Qingtian Zhang"
-  name             : 张擎天
+  #name             : "Qingtian Zhang"
+  name             : <h1 class="kai-ti">张擎天</h1>
   location         : "Shenzhen, China"
   employer         : "Shenzhen University"
  

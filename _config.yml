@@ -21,7 +21,7 @@ repository               : "qingtianzhangmath/qingtianzhangmath.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "QZ.jpg"
+  avatar           : "qz.png"
   name             : "Qingtian Zhang"
   location         : "Shenzhen, China"
   employer         : "Shenzhen University"
